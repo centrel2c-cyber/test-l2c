@@ -1,0 +1,2 @@
+fonc 1
+fonc 2
